@@ -1,4 +1,5 @@
 Name: Oskar Boysen
+Age: 23
 Favorite color: Green
 Favorite food: Lasagne
 Favorite alcohol: Vodka
